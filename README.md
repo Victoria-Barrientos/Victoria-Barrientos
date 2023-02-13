@@ -8,7 +8,7 @@
 - **Hobbies:** Boxing - Arts & crafts
 - **How to reach me:** www.linkedin.com/in/victoria-barrientos/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=\Victoria-Barrientos&layout=compact)](https://github.com\victoria-barrientos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victoria-Barrientos&layout=compact)](https://github.com\Victoria-Barrientos/github-readme-stats)
 <div align="center">
 	<a href="https://github-readme-stats.vercel.app/api?username=Victoria-Barrientos&include_all_commits=true&show_icons=true&theme=radical">
 	<img src="https://github-readme-stats.vercel.app/api?username=Victoria-Barrientos&include_all_commits=true&show_icons=true&theme=radical">
