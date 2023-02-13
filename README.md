@@ -28,7 +28,7 @@
 </td>
 <td width="25%" align="center">
 <span>Mongo DB</span><br>
-<img height="34px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mongodb.com%2F&psig=AOvVaw1h9faEs1e8hZl76XoSWVuJ&ust=1676384813800000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCSmpbakv0CFQAAAAAdAAAAABAE">
+<img height="34px" src="">
 </td>
 <td width="25%" align="center">
 <span></span><br>
