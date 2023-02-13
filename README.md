@@ -9,16 +9,17 @@
 -  **Fun fact** ⚡ I'm bilingual (ENGLISH & SPANISH) and in my first semester to become a literary & technical-scientific translator of English
 -  **My skills** 📚 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
-  </a>
-  </p>
+
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,express,mongodb" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
+  </a>
+  </p>
 
 
 <!--
