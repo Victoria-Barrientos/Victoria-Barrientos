@@ -5,8 +5,10 @@
 ## About Me
 - **Location:** Santa Fe, Argentina
 - **Quick Bio:** I'm a full stack developer & UX design student. I made a full on webpage using *Javascript* and *MongoDB*. Currently, Im focusing on freelance projects and only-for-fun projects to build my portifolio and strengthen my skills. 
-- **Hobbies:** Videogames, series/movies.
+- **Hobbies:** Boxing - Arts & crafts
 - **How to reach me:** www.linkedin.com/in/victoria-barrientos/
+
+⚡ Fun fact: I'm bilingual (ENGLISH & SPANISH) and in my first semester to become a literary & technical-scientific translator of English
 <!--
 **Victoria-Barrientos/Victoria-Barrientos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
