@@ -9,9 +9,8 @@
 - **How to reach me:** www.linkedin.com/in/victoria-barrientos/
 
 
-<div align="center">
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victoria-Barrientos&layout=compact)](https://github.com\Victoria-Barrientos/github-readme-stats)
-</div>
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victoria-Barrientos&layout=compact&align=center)](https://github.com\Victoria-Barrientos/github-readme-stats)
+
 
 
 ⚡ Fun fact: I'm bilingual (ENGLISH & SPANISH) and in my first semester to become a literary & technical-scientific translator of English
