@@ -8,6 +8,8 @@
 - **Hobbies:** Boxing - Arts & crafts
 - **How to reach me:** www.linkedin.com/in/victoria-barrientos/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=\victoria-barrientos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ⚡ Fun fact: I'm bilingual (ENGLISH & SPANISH) and in my first semester to become a literary & technical-scientific translator of English
 <!--
 **Victoria-Barrientos/Victoria-Barrientos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
