@@ -11,40 +11,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
   </a>
 </p>
-
-<div align="center">
-<h3 align="center">Skills</h2>
-<table>
-<tbody>
-<tr valign="top">
- <td width="25%" align="center">
-<span>VS code</span><br>
-<img height="34px" src="https://user-images.githubusercontent.com/88806080/155042269-abc6b267-9741-4cf6-b665-67dd395ff98d.png">
-</td>
- <td width="25%" align="center">
-<span>Figma</span><br>
-<img height="34px" src="">
-</td>
-<td width="25%" align="center">
-<span>Javascript</span><br>
-<img height="34px" src="">
-</td>
-<td width="25%" align="center">
-<span>Mongo DB</span><br>
-<img height="34px" src="">
-</td>
-<td width="25%" align="center">
-<span></span><br>
-<img height="34px" src="" >
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-
 
 
 <!--
