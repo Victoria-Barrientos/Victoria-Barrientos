@@ -13,6 +13,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
+  </a>
 </p>
 
 
