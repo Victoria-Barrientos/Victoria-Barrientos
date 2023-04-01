@@ -1,7 +1,6 @@
 ### Hi there 👋 Let me introduce myself;
 
 <h1 align="center">Victoria Barrientos</h1>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ## About Me
 - **Location** 📍 Santa Fe, Argentina
