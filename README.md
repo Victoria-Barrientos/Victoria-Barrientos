@@ -2,7 +2,7 @@
 
 <h1 align="center">Victoria Barrientos</h1>
 
-## About Me
+About Me
 - **Location** 📍 Santa Fe, Argentina
 - **Quick Bio** 🌱 I'm a (full stack developer & UX design) student. I made a full on webpage using *Javascript* and *MongoDB*. Currently, Im focusing on freelance projects and only-for-fun projects to build my portifolio and strengthen my skills. 
 - **How to reach me** 📩 www.linkedin.com/in/victoria-barrientos/
