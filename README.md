@@ -17,12 +17,12 @@ About Me
 </p>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,sequelize" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,heroku,figma" />
   </a>
   </p>
 
