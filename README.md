@@ -9,15 +9,9 @@ About Me
 -  **Fun fact** ⚡ I'm bilingual (ENGLISH & SPANISH) and in my first semester to become a literary & technical-scientific translator of English
 -  **My skills** 📚 
 
-
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,react,redux" />
-  </a>
-</p>
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,sequelize" />
+    <img src="https://skillicons.dev/icons?i=css,html,react,redux,js,nodejs,express,mongodb,postgres,sequelize" />
   </a>
 </p>
 <p align="center">
