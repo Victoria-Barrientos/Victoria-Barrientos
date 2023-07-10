@@ -5,7 +5,7 @@
 About Me
 - **Location** 📍 Santa Fe, Argentina
 - **Quick Bio** 🌱 I'm a Full Stack Developer with a background in engineering school. Through my experiences as an international exchange student, I have developed adaptability and strong communication skills. I am eager to apply my skills and continue learning in a dynamic and challenging work environment in the field of web development. Proficient in JavaScript ES6, Node JS, and Express JS for building scalable and efficient web applications.
-- Checkout my most recent work in e-Latam, our collaborative final project on Henry academy https://pf-e-latam.netlify.app/
+- **Recent work** Checkout my most recent work in e-Latam, our collaborative final project on Henry academy https://pf-e-latam.netlify.app/
 - **How to reach me** 📩 www.linkedin.com/in/victoria-barrientos/
 -  **Fun fact** ⚡ I'm bilingual (ENGLISH & SPANISH) and in my first semester to become a literary & technical-scientific translator of English
 -  **My skills** 📚 
