@@ -11,14 +11,24 @@ About Me
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,nestjs,mongodb,postgres,sequelize" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,sequelize" />
+  </a>
+</p>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,express" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,react,redux,git,vscode,docker," />
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,redux" />
   </a>
-  </p>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,docker," />
+  </a>
+</p>
 
 
 <!--
