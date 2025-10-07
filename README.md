@@ -11,12 +11,12 @@ About Me
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,react,redux,js,nodejs,express,mongodb,postgres,sequelize" />
+    <img src="https://skillicons.dev/icons?i=css,html,react,redux,js,ts,python,nodejs,express,mongodb,postgres,sequelize" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,heroku,figma" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma,docker," />
   </a>
   </p>
 
